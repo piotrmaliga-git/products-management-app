@@ -1,6 +1,6 @@
 ### 🚀 Quick start in 5 steps
 
-1.  **Clone my repository**
+1. Clone my repository
 
 ```
 git clone https://github.com/piotrmaliga-git/products-management-app.git
