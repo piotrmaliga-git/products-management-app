@@ -1,6 +1,6 @@
 .main-content {
-  width: 80%;
-  margin: auto auto 100px auto;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 
 .main {
@@ -8,7 +8,7 @@
 }
 
 .form {
-  width: 50%;
+  max-width: 650px;
   float: left;
   margin-bottom: 50px;
 }

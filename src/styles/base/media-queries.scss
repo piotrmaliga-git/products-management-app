@@ -1,9 +1,11 @@
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   h1 {
     font-size: 30px;
   }
   header {
     .links {
+      display: flex;
+      flex-direction: column;
       a {
         font-size: 1.2rem;
       }
@@ -16,5 +18,9 @@
   }
   .main-form {
     width: 100%;
+  }
+  .message {
+    text-align: center;
+    margin: 0 auto;
   }
 }
